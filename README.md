@@ -4,7 +4,7 @@
 
 Integrantes:
 - Jeison Fernando Guarguati Anaya
-- Alejandro
+- Alejandro Farelo Duarte
 - Julian
 
 ---
